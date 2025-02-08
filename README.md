@@ -83,10 +83,6 @@ The system plays an alert sound (`alarm.wav`) when drowsiness is detected.
 - **Low FPS or lag**: This might happen if your computer is not powerful enough to handle real-time video processing. Try reducing the video resolution or optimizing the code.
 - **Sound not playing**: Ensure you have a valid sound file (`alarm.wav`) in the same directory as the script or update the file path.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [dlib](http://dlib.net/): For the face landmark detection.
